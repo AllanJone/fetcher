@@ -1,8 +1,8 @@
-# Web Page Fetcher
+# 🔥 Web Page Fetcher 🔥
 
 A simple command-line tool built with TypeScript to fetch web pages and save them to disk for later retrieval and browsing. Additionally, it can extract and display metadata about the fetched pages.
 
-## Features
+## ✨ Features
 
 - Fetches web pages based on provided URLs.
 - Saves fetched pages to disk.
@@ -11,16 +11,7 @@ A simple command-line tool built with TypeScript to fetch web pages and save the
   - Number of images on the page.
   - Date and time of the fetch.
 
-## Installation & Setup
-
-Clone this repository:
-
-```bash
-git clone <repository-url>
-cd <repository-directory>
-```
-
-## Usage
+## 📖 Usage
 
 1. Build the Docker image:
 
